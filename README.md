@@ -1,7 +1,4 @@
-# divide-and-conquer-tournament
-Algorithm Design university course exercise implementing tournament scheduling with a divide-and-conquer approach for 2^n teams. (2020)
-
-# Tournament Scheduler
+# Tournament Scheduler (2020)
 
 This is a simple C++ program that simulates a tournament scheduler using a divide-and-conquer approach. It schedules matches between teams in a round-robin format.
 
@@ -38,4 +35,4 @@ This project implements a tournament scheduling algorithm using the divide-and-c
 - C++ compiler (e.g., g++)
 - Git (optional, for cloning the repository)
 
-© 2022 Ali Bayani
+© 2020 Ali Bayani
